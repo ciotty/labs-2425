@@ -9,9 +9,11 @@ $email = $_POST['email'];
 # Encrypt the password first before saving it to the Session Variables
 $password = $_POST['password'];
 
+$hashed_password = password_hash($password, PASSWORD_DEFAULT);
 $_SESSION['fullname'] = $fullname;
 $_SESSION['email'] = $email;
-$_SESSION['password'] = $password;
+$_SESSION['password'] = $hashed_password;
+
 
 dump_session();
 

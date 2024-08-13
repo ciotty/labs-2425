@@ -8,6 +8,8 @@ $birthdate = $_POST['birthdate'];
 $sex = $_POST['sex'];
 $address = $_POST['address'];
 
+
+$birthdate = date("F j, Y", strtotime($birthdate));
 $_SESSION['birthdate'] = $birthdate;
 $_SESSION['sex'] = $sex;
 $_SESSION['address'] = $address;
