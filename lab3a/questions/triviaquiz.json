@@ -1,0 +1,110 @@
+{
+    "questions": [
+        {
+            "question": "Which city is known as the 'Summer Capital of the Philippines'?",
+            "options": [
+                {
+                    "key": "A",
+                    "value": "Cebu City"
+                },
+                {
+                    "key": "B",
+                    "value": "Davao City"
+                },
+                {
+                    "key": "C",
+                    "value": "Baguio City"
+                },
+                {
+                    "key": "D",
+                    "value": "Manila"
+                }
+            ]
+        },
+        {
+            "question": "Who was the first President of the Philippines?",
+            "options": [
+                {
+                    "key": "A",
+                    "value": "Emilio Aguinaldo"
+                },
+                {
+                    "key": "B",
+                    "value": "Manuel L. Quezon"
+                },
+                {
+                    "key": "C",
+                    "value": "Sergio Osmeña"
+                },
+                {
+                    "key": "D",
+                    "value": "Ferdinand Marcos"
+                }
+            ]
+        },
+        {
+            "question": "Which island group is known for the famous Chocolate Hills?",
+            "options": [
+                {
+                    "key": "A",
+                    "value": "Visayas"
+                },
+                {
+                    "key": "B",
+                    "value": "Mindanao"
+                },
+                {
+                    "key": "C",
+                    "value": "Luzon"
+                },
+                {
+                    "key": "D",
+                    "value": "Palawan"
+                }
+            ]
+        },
+        {
+            "question": "Which Filipino hero is known as the 'Father of the Philippine Revolution'?",
+            "options": [
+                {
+                    "key": "A",
+                    "value": "Andres Bonifacio"
+                },
+                {
+                    "key": "B",
+                    "value": "José Rizal"
+                },
+                {
+                    "key": "C",
+                    "value": "Apolinario Mabini"
+                },
+                {
+                    "key": "D",
+                    "value": "Emilio Aguinaldo"
+                }
+            ]
+        },
+        {
+            "question": "What is the traditional Filipino dish made of marinated pork grilled on skewers?",
+            "options": [
+                {
+                    "key": "A",
+                    "value": "Sinigang"
+                },
+                {
+                    "key": "B",
+                    "value": "Adobo"
+                },
+                {
+                    "key": "C",
+                    "value": "Lechon"
+                },
+                {
+                    "key": "D",
+                    "value": "Barbecue"
+                }
+            ]
+        }
+    ],
+    "answers": ["C", "A", "A", "A", "D"]
+}
